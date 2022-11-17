@@ -18,7 +18,7 @@
 
 ## 中文开放域对话数据集
 
-- LCCC | 文本 |2020 | LCCC数据集分为base和large两个版本，主要用于预训练大规模对话生成模型，其base版本包括了12M个对话，32.9M个对话语句 | [`PDF`](https://arxiv.org/abs/2008.03946) | [`数据链接`](https://github.com/thu-coai/CDial-GPT)
+- <a name="LCCC">LCCC</a> | 文本 |2020 | LCCC数据集分为base和large两个版本，主要用于预训练大规模对话生成模型，其base版本包括了12M个对话，32.9M个对话语句 | [`PDF`](https://arxiv.org/abs/2008.03946) | [`数据链接`](https://github.com/thu-coai/CDial-GPT)
 - PchatbotW | 文本 | 2021 | PchatbotW主要从微博爬取得到，包括了139,448,339个对话、 278,896,678，并且提供了时间戳和用户ID两种个性信息，可以隐式地建模说话者的个性 | [`PDF`](https://arxiv.org/abs/2009.13284) | [`数据集链接`](https://github.com/qhjqhj00/Pchatbot)
 - WDC-Dialogue | 文本 | 2021 | WDC是一个超大规模的中文对话数据集，其平均轮次为2.1，包括了1.4B个对话，以及3.0B个语句 | [`PDF`](https://arxiv.org/pdf/2108.01547.pdf) | [`数据集链接`](https://resource.wudaoai.cn/home?ind&name=WuDaoCorpora%202.0&id=1394901288847716352)
 - M3ED | 多模态 | 2022 | M3ED构建了一个大规模高质量的多模态、多场景、多标签情感对话数据集，从56部中文电视剧，大约500集中选取900多个对话片段，并对对话中的每句话进行多情感标签的标注，共标注24,449句话 | [`PDF`](https://aclanthology.org/2022.acl-long.391/) | [`数据链接`](https://github.com/aim3-ruc/rucm3ed)
@@ -26,7 +26,7 @@
 - C3KG | 文本 | 2022 |C3KG是第一个结合了社会常识知识和对话流信息的中文常识对话知识图谱 | [`PDF`](https://arxiv.org/pdf/2204.02549.pdf) | [`数据链接`](https://github.com/XiaoMi/C3KG)
 - MMChat | 多模态 | 2022 | MMChat是一个大规模多模态多轮对话数据集，其中的每个对话都与一个或多个图片相关联 | [`PDF`](https://arxiv.org/pdf/2108.07154.pdf) | [`数据集链接`](https://github.com/silverriver/MMChat)
 - 千言中文对话数据集 | 文本 | 千言中文对话数据集包括DeLeMon、Diamante、LUGE-Dialogue、DuConv、DuRecDial、KdConv、PersonaDialog等，内容涵盖闲聊对话、情感对话、画像对话、知识对话、推荐对话等多个方面 | [`PDF`](https://www.luge.ai/#/luge/about) |  [`数据集链接`](https://www.luge.ai/#/)
-- GlobalWoZ | 文本 | GlobalWoZ 是利用机器翻译和目标语言的本地实体创建一个新的多语言 大规模ToD 数据集 GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
+- <a name="GlobalWoZ">GlobalWoZ</a> | 文本 | GlobalWoZ 是利用机器翻译和目标语言的本地实体创建一个新的多语言 大规模ToD 数据集 GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
 
 ## 中文对话模型
 
@@ -53,7 +53,7 @@
 | EVA2.0-base |  base | [项目首页](https://wudaoai.cn/model/detail/EVA) | [huggingface](https://huggingface.co/thu-coai/EVA2.0-base) | [thu-coai](https://github.com/thu-coai) | [github](https://github.com/thu-coai/EVA) | 中文开放域对话  |  
 
 ### PLATO系列
-:thinking: 体验地址: 手机微信搜索**百度PLATO**即可体验
+:thinking: <a name="PLATO-XL">体验地址</a>: 手机微信搜索**百度PLATO**即可体验
 
 - 2020 | PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/1910.07931.pdf)
 
@@ -93,7 +93,7 @@
 
 ### Blender系列
 
-:thinking:体验地址(目前仅支持US用户):  [BlenderBot](https://geo-not-available.blenderbot.ai/)
+:thinking: <a name="Blender">体验地址</a>(目前仅支持US用户):  [BlenderBot](https://geo-not-available.blenderbot.ai/)
 
 - 2021 | BlenderBot 2.0: An open source chatbot that builds long-term memory and searches the internet | Moya Chen, et al. | parl.ai | [`PDF`](https://parl.ai/projects/blenderbot2/)
 
@@ -109,7 +109,7 @@
 | BlenderBot 3.0 | 175B | [项目地址](https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/) | [模型下载](https://docs.google.com/forms/d/e/1FAIpQLSfRzw8xVzxaxgRyuodTZtkcYADAjzYjN5gcxx6DMa4XaGwwhQ/viewform) |  [ParIAI](https://parl.ai/) |[blenderbot3](https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/)  | 英文开放域对话 |
 
 ### LaMDA
-:thinking:体验地址(支持中英等多种语言): [Character.AI](https://beta.character.ai/chats/)
+:thinking: <a name="LaMDA">体验地址</a>(支持中英等多种语言): [Character.AI](https://beta.character.ai/chats/)
 
 - 2022 | LaMDA: Language Models for Dialog Applications | Romal Thoppilan, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2201.08239.pdf)
 
@@ -128,13 +128,13 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
-* 2022.11.17 增加GlobalWoZ，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
-* 2022.11.16 增加PLATO-XL、LaMDA和Blender体验地址
-* 2022.11.09 增加[OPD](#OPD)
-* 2022.11.04 增加[LaMDA](#LaMDA)
-* 2022.10.25 增加[Blender系列模型](#Blender系列)
-* 2022.10.15 增加[PanGu系列模型](#PanGu系列)
-* 2022.09.30 增加[PLATO系列模型](#PLATO系列)
-* 2022.09.25 增加[EVA系列模型](#EVA系列)
-* 2022.09.17 初始化中文[CDial-GPT系列模型](#CDial-GPT系列)
+* 2022.11.17 增加<a href="#GlobalWoZ">GlobalWoZ</a>，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
+* 2022.11.16 增加<a href="#PLATO-XL">PLATO-XL</a>、<a href="#LaMDA">LaMDA</a>a和<a href="#Blender">Blender</a>体验地址，可以与闲聊机器人面对面聊天
+* 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成。
+* 2022.11.04 增加[LaMDA](#LaMDA)，具有突破性的对话技术
+* 2022.10.25 增加[Blender系列模型](#Blender系列)，Facebook下一系列对话模型
+* 2022.10.15 增加[PanGu系列模型](#PanGu系列)，华为研发的新一代对话机器人
+* 2022.09.30 增加[PLATO系列模型](#PLATO系列)，百度自主研发的集闲聊、任务、知识于一身的对话机器人
+* 2022.09.25 增加[EVA系列模型](#EVA系列)，EVA 是目前最大的开源中文预训练对话模型
+* 2022.09.17 初始化中文[CDial-GPT系列模型](#CDial-GPT系列)，最早开源的中文对话模型，同时还开源了闲聊对话数据集<a href="#LCCC">LCCC</a>
 * 2022.08.17 增加[中文开放域对话数据集](#中文开放域对话数据集)
