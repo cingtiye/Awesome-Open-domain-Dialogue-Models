@@ -26,7 +26,7 @@
 - C3KG | 文本 | 2022 |C3KG是第一个结合了社会常识知识和对话流信息的中文常识对话知识图谱 | [`PDF`](https://arxiv.org/pdf/2204.02549.pdf) | [`数据链接`](https://github.com/XiaoMi/C3KG)
 - MMChat | 多模态 | 2022 | MMChat是一个大规模多模态多轮对话数据集，其中的每个对话都与一个或多个图片相关联 | [`PDF`](https://arxiv.org/pdf/2108.07154.pdf) | [`数据集链接`](https://github.com/silverriver/MMChat)
 - 千言中文对话数据集 | 文本 | 千言中文对话数据集包括DeLeMon、Diamante、LUGE-Dialogue、DuConv、DuRecDial、KdConv、PersonaDialog等，内容涵盖闲聊对话、情感对话、画像对话、知识对话、推荐对话等多个方面 | [`PDF`](https://www.luge.ai/#/luge/about) |  [`数据集链接`](https://www.luge.ai/#/)
-- <a name="GlobalWoZ">GlobalWoZ</a> | 文本 | GlobalWoZ 是利用机器翻译和目标语言的本地实体创建一个新的多语言 大规模ToD 数据集 GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
+- <a name="GlobalWoZ">GlobalWoZ</a> | 文本 | GlobalWoZ 是利用机器翻译和目标语言的本地实体创建一个新的多语言大规模ToD 数据集 GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
 
 ## 中文对话模型
 
@@ -130,7 +130,7 @@
 ## 更新
 * 2022.11.17 增加<a href="#GlobalWoZ">GlobalWoZ</a>，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
 * 2022.11.16 增加<a href="#PLATO-XL">PLATO-XL</a>、<a href="#LaMDA">LaMDA</a>a和<a href="#Blender">Blender</a>体验地址，可以与闲聊机器人面对面聊天
-* 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成。
+* 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成
 * 2022.11.04 增加[LaMDA](#LaMDA)，具有突破性的对话技术
 * 2022.10.25 增加[Blender系列模型](#Blender系列)，Facebook下一系列对话模型
 * 2022.10.15 增加[PanGu系列模型](#PanGu系列)，华为研发的新一代对话机器人
