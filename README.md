@@ -43,7 +43,7 @@
 ### EVA系列
 
 + 2021 | EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training | Hao Zhou, et al. | arXiv | [`PDF`](https://arxiv.org/abs/2108.01547)
-+ 2022 | EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training | Yuxian Gu, et al. | arXiv | `[PDF]`(https://arxiv.org/pdf/2203.09313.pdf)
++ 2022 | EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training | Yuxian Gu, et al. | arXiv | [`PDF`](https://arxiv.org/pdf/2203.09313.pdf)
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
