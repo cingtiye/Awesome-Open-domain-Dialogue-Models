@@ -26,6 +26,7 @@
 - C3KG | 文本 | 2022 |C3KG是第一个结合了社会常识知识和对话流信息的中文常识对话知识图谱 | [`PDF`](https://arxiv.org/pdf/2204.02549.pdf) | [`数据链接`](https://github.com/XiaoMi/C3KG)
 - MMChat | 多模态 | 2022 | MMChat是一个大规模多模态多轮对话数据集，其中的每个对话都与一个或多个图片相关联 | [`PDF`](https://arxiv.org/pdf/2108.07154.pdf) | [`数据集链接`](https://github.com/silverriver/MMChat)
 - 千言中文对话数据集 | 文本 | 千言中文对话数据集包括DeLeMon、Diamante、LUGE-Dialogue、DuConv、DuRecDial、KdConv、PersonaDialog等，内容涵盖闲聊对话、情感对话、画像对话、知识对话、推荐对话等多个方面 | [`PDF`](https://www.luge.ai/#/luge/about) |  [`数据集链接`](https://www.luge.ai/#/)
+- GlobalWoZ | 文本 | GlobalWoZ 是利用机器翻译和目标语言的本地实体创建一个新的多语言 大规模ToD 数据集 GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
 
 ## 中文对话模型
 
@@ -127,7 +128,8 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
-* 2022.11.17 增加PLATO-XL、LaMDA和Blender体验地址
+* 2022.11.17 增加GlobalWoZ，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
+* 2022.11.16 增加PLATO-XL、LaMDA和Blender体验地址
 * 2022.11.09 增加[OPD](#OPD)
 * 2022.11.04 增加[LaMDA](#LaMDA)
 * 2022.10.25 增加[Blender系列模型](#Blender系列)
