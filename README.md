@@ -61,8 +61,8 @@
 
 - 2021 | PLATO-XL: Exploring the Large-scale Pre-training of Dialogue Generation | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2109.09519.pdf) 
 - 2022 | PLATO-KAG: Unsupervised Knowledge-Grounded Conversation via Joint Modeling | Xinxian Huang, et al. | aclanthology | [`PDF`](https://aclanthology.org/2021.nlp4convai-1.14.pdf)
-- 2022 | Long Time No See! Open-Domain Conversation with Long-Term Persona
-  Memory | Xinchao Xu, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2203.05797.pdf)
+- 2022 | Long Time No See! Open-Domain Conversation with Long-Term Persona Memory | Xinchao Xu, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2203.05797.pdf)
+- 2022 | <a name="PLATO-K">PLATO-K</a>: Internal and External Knowledge Enhanced Dialogue Generation | Siqi Bao, et al. | [`PDF`](https://arxiv.org/pdf/2211.00910.pdf)
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
@@ -73,6 +73,7 @@
 | PLATO-XL | 11B | [项目地址](https://github.com/PaddlePaddle/Knover) |  | [PaddlePaddle](https://github.com/PaddlePaddle) | [github](https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-XL) | 中文开放域对话 |
 | PLATO-KAG | 1.6B | [项目地址](https://github.com/PaddlePaddle/Knover) |  | [PaddlePaddle](https://github.com/PaddlePaddle) | [github](https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-KAG) | 中文知识型对话 |
 | PLATO-LTM | 1.6B | [项目地址](https://github.com/PaddlePaddle/Research/tree/master/NLP) |  | [PaddlePaddle](https://github.com/PaddlePaddle) | [github](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) | 中文开放域对话 |
+| PLATO-K | 22B |  | | [PaddlePaddle](https://github.com/PaddlePaddle) |  | 中文开放域对话 |
 
 ### PanGu系列
 
@@ -128,6 +129,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2022.11.23 增加<a href="#PLATO-K">PLATO-K</a>，PLATO-K提出了同时结合知识内化和知识外用的全面知识增强策略，参数规模达到了220亿，是当前最大规模的中文对话模型
 * 2022.11.17 增加<a href="#GlobalWoZ">GlobalWoZ</a>，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
 * 2022.11.16 增加<a href="#PLATO-XL">PLATO-XL</a>、<a href="#LaMDA">LaMDA</a>a和<a href="#Blender">Blender</a>体验地址，可以与闲聊机器人面对面聊天
 * 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成
