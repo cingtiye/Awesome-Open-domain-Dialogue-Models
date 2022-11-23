@@ -62,7 +62,7 @@
 - 2021 | PLATO-XL: Exploring the Large-scale Pre-training of Dialogue Generation | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2109.09519.pdf) 
 - 2022 | PLATO-KAG: Unsupervised Knowledge-Grounded Conversation via Joint Modeling | Xinxian Huang, et al. | aclanthology | [`PDF`](https://aclanthology.org/2021.nlp4convai-1.14.pdf)
 - 2022 | Long Time No See! Open-Domain Conversation with Long-Term Persona Memory | Xinchao Xu, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2203.05797.pdf)
-- 2022 | <a name="PLATO-K">PLATO-K</a>: Internal and External Knowledge Enhanced Dialogue Generation | Siqi Bao, et al. | [`PDF`](https://arxiv.org/pdf/2211.00910.pdf)
+- 2022 | <a name="PLATO-K">PLATO-K</a>: Internal and External Knowledge Enhanced Dialogue Generation | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2211.00910.pdf)
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
