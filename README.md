@@ -117,16 +117,17 @@
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
-| LaMDA | 2B | [项目地址](https://blog.google/technology/ai/lamda/) |  | |  |  英文开放域对话 |
-| LaMDA | 8B |[项目地址](https://blog.google/technology/ai/lamda/) | | | | 英文开放域对话 |
-| LaMDA | 137B | [项目地址](https://blog.google/technology/ai/lamda/)| | | | 英文开放域对话 |
+| LaMDA | 2B | [项目地址](https://blog.google/technology/ai/lamda/) | - | - | - |  英文开放域对话 |
+| LaMDA | 8B |[项目地址](https://blog.google/technology/ai/lamda/) | - | - | - | 英文开放域对话 |
+| LaMDA | 137B | [项目地址](https://blog.google/technology/ai/lamda/)| - | - | - | 英文开放域对话 |
 
 ### ChatGPT
 
 :thinking:体验地址（支持中英等多种语言）参考网站：[参考](https://blog.ittutorial.top/ai-ChatGPT/)
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
-| ChatGPT | - | [项目地址](https://openai.com/blog/chatgpt/) |  | |  | 开放域对话 |
+| ChatGPT | - | [项目地址](https://openai.com/blog/chatgpt/) | - | [OpenAI](https://github.com/openai) | [ChatGPT](https://openai.com/blog/chatgpt/) | 对话助手 |
+| InstructGPT | - | [项目地址](https://github.com/openai/following-instructions-human-feedback) | - | [OpenAI](https://github.com/openai) | [InstructGPT](https://openai.com/blog/instruction-following/#guide) | 对话助手 |
 
 
 ## Reference
@@ -138,6 +139,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2022.12.13 增加<a href="#ChatGPT">InstructGPT</a>，InstructGPT和ChatGPT在模型结构，训练方式上都完全一致，都采用了指示学习和人工反馈的强化学习来指导模型的训练
 * 2022.12.04 增加<a href="#ChatGPT">ChatGPT</a>，ChatGPT是一个由 OpenAI 训练的大型语言模型，ChatGPT 支持和用户通过对话的形式“回答问题”，并且赋予了一些简单的智能化行为
 * 2022.11.23 增加<a href="#PLATO-K">PLATO-K</a>，PLATO-K提出了同时结合知识内化和知识外用的全面知识增强策略，参数规模达到了220亿，是当前最大规模的中文对话模型
 * 2022.11.17 增加<a href="#GlobalWoZ">GlobalWoZ</a>，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
