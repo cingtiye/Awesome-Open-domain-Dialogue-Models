@@ -127,7 +127,7 @@
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
 | ChatGPT | - | [项目地址](https://openai.com/blog/chatgpt/) | - | [OpenAI](https://github.com/openai) | [ChatGPT](https://openai.com/blog/chatgpt/) | 对话助手 |
-| InstructGPT | - | [项目地址](https://github.com/openai/following-instructions-human-feedback) | - | [OpenAI](https://github.com/openai) | [InstructGPT](https://openai.com/blog/instruction-following/#guide) | 对话助手 |
+| InstructGPT | - | [项目地址](https://github.com/openai/following-instructions-human-feedback) | - | [OpenAI](https://github.com/openai) | [InstructGPT](https://openai.com/blog/instruction-following/#guide) | 通用生成模型 |
 
 
 ## Reference
