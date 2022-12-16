@@ -124,6 +124,9 @@
 ### ChatGPT
 
 :thinking:体验地址（支持中英等多种语言）参考网站：[参考](https://blog.ittutorial.top/ai-ChatGPT/)
+
+- 2022 | Training language models to follow instructions with human feedback | Long Ouyang, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2203.02155.pdf)
+
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
 | ChatGPT | - | [项目地址](https://openai.com/blog/chatgpt/) | - | [OpenAI](https://github.com/openai) | [ChatGPT](https://openai.com/blog/chatgpt/) | 对话助手 |
