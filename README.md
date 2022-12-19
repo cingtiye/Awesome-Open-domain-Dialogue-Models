@@ -12,6 +12,7 @@
   - [PLATO系列](#PLATO系列)
   - [PanGu系列](#PanGu系列)
   - [OPD](#OPD)
+  - [SkyText](#SkyText)
 + [英文对话模型](#英文对话模型)
   - [Blender系列](#Blender系列)
   - [LaMDA](#LaMDA)
@@ -91,6 +92,13 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
 | OPD |  6.3B | [项目首页](http://coai.cs.tsinghua.edu.cn/static/opd/) | [模型下载](http://coai.cs.tsinghua.edu.cn/static/opd/) | [thu-coai](https://github.com/thu-coai) | [github](https://github.com/thu-coai/OPD) | 中文开放域对话  | 需要申请才能下载 |
 
+### SkyText
+
+| 模型    | 版本 | 介绍                                                         | 模型下载                                                     | 作者                                      | 源地址                                           | 应用领域         |
+| ------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------ | ---------------- |
+| SkyText | 2.6B | [项目首页](https://live.vhall.com/v3/lives/subscribe/697547540) | [模型下载](https://huggingface.co/SkyWork/SkyTextTiny)       | [SkyWork](https://huggingface.co/SkyWork) | [github](https://github.com/SkyWorkAIGC/SkyText) | 中文GPT3支持对话 |
+| SkyText | 13B  | [项目首页](https://live.vhall.com/v3/lives/subscribe/697547540) | [模型下载](https://huggingface.co/SkyWork/SkyText/tree/main) | [SkyWork](https://huggingface.co/SkyWork) | [github](https://github.com/SkyWorkAIGC/SkyText) | 中文GPT3支持对话 |
+
 ## 英文对话模型
 
 ### Blender系列
@@ -142,6 +150,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2022.12.19 增加<a href="#SkyText">SkyText</a>，SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊天、问答、中英互译等不同的任务
 * 2022.12.13 增加<a href="#ChatGPT">InstructGPT</a>，InstructGPT和ChatGPT在模型结构，训练方式上都完全一致，都采用了指示学习和人工反馈的强化学习来指导模型的训练
 * 2022.12.04 增加<a href="#ChatGPT">ChatGPT</a>，ChatGPT是一个由 OpenAI 训练的大型语言模型，ChatGPT 支持和用户通过对话的形式“回答问题”，并且赋予了一些简单的智能化行为
 * 2022.11.23 增加<a href="#PLATO-K">PLATO-K</a>，PLATO-K提出了同时结合知识内化和知识外用的全面知识增强策略，参数规模达到了220亿，是当前最大规模的中文对话模型
