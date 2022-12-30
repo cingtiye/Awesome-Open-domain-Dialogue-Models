@@ -83,8 +83,8 @@
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
-| PanGu-bot | 350M | [项目首页](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot) |  | [huawei-noah](https://github.com/huawei-noah) | [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot) | 中文开放域对话 |
-| PanGu-bot | 2.6B |  [项目首页](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot) | | [huawei-noah](https://github.com/huawei-noah) |  [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot)  | 中文开放域对话 |
+| PanGu-bot | 350M | [项目首页](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog) |  | [huawei-noah](https://github.com/huawei-noah) | [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot) | 中文开放域对话 |
+| PanGu-bot | 2.6B | [项目首页](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog) | [模型下载](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog#user-content-4-1-%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6:~:text=4%20%E4%BD%BF%E7%94%A8-,4.1%20%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6,-%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6) | [huawei-noah](https://github.com/huawei-noah) |  [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot)  | 中文开放域对话 |
 
 ### OPD
 
@@ -161,7 +161,7 @@
 * 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成
 * 2022.11.04 增加[LaMDA](#LaMDA)，具有突破性的对话技术
 * 2022.10.25 增加[Blender系列模型](#Blender系列)，Facebook下一系列对话模型
-* 2022.10.15 增加[PanGu系列模型](#PanGu系列)，华为研发的新一代对话机器人
+* 2022.10.15 增加[PanGu系列模型](#PanGu系列)，PanGu-Dialog是以大数据和大模型为显著特征的大规模开放域对话生成模型，充分利用大规模预训练语言模型的知识和语言能力，构建可控、可靠可信、有智慧的自然人机对话模型
 * 2022.09.30 增加[PLATO系列模型](#PLATO系列)，百度自主研发的集闲聊、任务、知识于一身的对话机器人
 * 2022.09.25 增加[EVA系列模型](#EVA系列)，EVA 是目前最大的开源中文预训练对话模型
 * 2022.09.17 初始化中文[CDial-GPT系列模型](#CDial-GPT系列)，最早开源的中文对话模型，同时还开源了闲聊对话数据集<a href="#LCCC">LCCC</a>
