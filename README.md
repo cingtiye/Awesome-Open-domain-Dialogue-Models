@@ -126,9 +126,9 @@
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
-| LaMDA | 2B | [项目地址](https://blog.google/technology/ai/lamda/) | - | - | - |  英文开放域对话 |
-| LaMDA | 8B |[项目地址](https://blog.google/technology/ai/lamda/) | - | - | - | 英文开放域对话 |
-| LaMDA | 137B | [项目地址](https://blog.google/technology/ai/lamda/)| - | - | - | 英文开放域对话 |
+| LaMDA | 2B | [项目地址](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html) | - | - | [LaMDA-pytorch](https://github.com/conceptofmind/LaMDA-pytorch) |  英文开放域对话 |
+| LaMDA | 8B |[项目地址](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html) | - | - | [LaMDA-pytorch](https://github.com/conceptofmind/LaMDA-pytorch) | 英文开放域对话 |
+| LaMDA | 137B | [项目地址](https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html) | - | - | [LaMDA-pytorch](https://github.com/conceptofmind/LaMDA-pytorch) | 英文开放域对话 |
 
 ### ChatGPT
 
