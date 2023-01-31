@@ -29,6 +29,7 @@
 - MMChat | 多模态 | 2022 | MMChat是一个大规模多模态多轮对话数据集，其中的每个对话都与一个或多个图片相关联 | [`PDF`](https://arxiv.org/pdf/2108.07154.pdf) | [`数据集链接`](https://github.com/silverriver/MMChat)
 - 千言中文对话数据集 | 文本 | 千言中文对话数据集包括DeLeMon、Diamante、LUGE-Dialogue、DuConv、DuRecDial、KdConv、PersonaDialog等，内容涵盖闲聊对话、情感对话、画像对话、知识对话、推荐对话等多个方面 | [`PDF`](https://www.luge.ai/#/luge/about) |  [`数据集链接`](https://www.luge.ai/#/)
 - <a name="GlobalWoZ">GlobalWoZ</a> | 文本 | 2022 | GlobalWoZ是利用机器翻译和目标语言的本地实体创建一个新的多语言大规模ToD数据集GlobalWoZ | [`PDF`](https://aclanthology.org/2022.acl-long.115.pdf) | [`数据链接`](https://ntunlpsg.github.io/project/globalwoz/)
+- <a name="TikTalk">TikTalk</a> | 多模态 | 2023 | TikTalk数据集从抖音上采集，其抖音拥有超过25个大类的视频，包括38703个视频和相应367670个对话 |  [`PDF`](https://arxiv.org/pdf/2301.05880.pdf) | [`数据链接`](https://github.com/RUC-AIMind/TikTalk)
 
 ## 中文对话模型
 
@@ -151,6 +152,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2023.01.31 增加<a href="#TikTalk">TikTalk</a>，TikTalk是一个真实闲聊中文多模态数据集，共包括38703个视频和相应367670个对话
 * 2022.12.27 增加<a href="#Sky系列">SkyChat</a>, SkyChat是一款基于中文GPT-3 API研发的聊天机器人项目，它除了基本的聊天、对话、你问我答外，还能支持中英文互译、内容续写、对对联、写古诗、生成菜谱、第三人称转述、创建采访问题等多种功能
 * 2022.12.19 增加<a href="#Sky系列">SkyText</a>，SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊天、问答、中英互译等不同的任务
 * 2022.12.13 增加<a href="#ChatGPT">InstructGPT</a>，InstructGPT和ChatGPT在模型结构，训练方式上都完全一致，都采用了指示学习和人工反馈的强化学习来指导模型的训练
@@ -159,7 +161,7 @@
 * 2022.11.17 增加<a href="#GlobalWoZ">GlobalWoZ</a>，GlobalWoZ是面向全球通用的人机对话系统多语言任务型对话数据
 * 2022.11.16 增加<a href="#PLATO-XL">PLATO-XL</a>、<a href="#LaMDA">LaMDA</a>a和<a href="#Blender">Blender</a>体验地址，可以与闲聊机器人面对面聊天
 * 2022.11.09 增加[OPD](#OPD)，OPD是一个中文开放域对话预训练模型，拥有63亿参数，在70GB高质量对话数据上进行训练而成
-* 2022.11.04 增加[LaMDA](#LaMDA)，具有突破性的对话技术
+* 2022.11.04 增加[LaMDA](#LaMDA)，LaMDA 通过微调一系列专门用于对话的、基于 Transformer 的神经语言模型构建的，具有多达 137B 个参数，模型还可以利用外部知识源进行对话
 * 2022.10.25 增加[Blender系列模型](#Blender系列)，Facebook下一系列对话模型
 * 2022.10.15 增加[PanGu系列模型](#PanGu系列)，PanGu-Dialog是以大数据和大模型为显著特征的大规模开放域对话生成模型，充分利用大规模预训练语言模型的知识和语言能力，构建可控、可靠可信、有智慧的自然人机对话模型
 * 2022.09.30 增加[PLATO系列模型](#PLATO系列)，百度自主研发的集闲聊、任务、知识于一身的对话机器人
