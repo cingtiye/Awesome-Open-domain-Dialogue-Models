@@ -108,7 +108,7 @@
 
 | 模型 | 版本 | 介绍                                                    | 模型下载                                                | 作者                                        | 源地址           | 应用领域 |
 | ---- | ---- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------- | ---------------- | -------- |
-| MOSS | 百亿级别 | [项目首页](https://txsun1997.github.io/blogs/moss.html) | [模型下载]([github](https://github.com/txsun1997/MOSS)) | [复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/) | [github](https://github.com/txsun1997/MOSS) |中文ChatGPT|
+| MOSS | 百亿级别 | [项目首页](https://txsun1997.github.io/blogs/moss.html) | [模型下载](https://github.com/txsun1997/MOSS) | [复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/) | [github](https://github.com/txsun1997/MOSS) |中文ChatGPT|
 
 ## 英文对话模型
 
