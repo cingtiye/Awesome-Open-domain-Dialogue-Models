@@ -14,6 +14,7 @@
   - [OPD](#OPD)
   - [Sky系列](#Sky系列)
   - [MOSS](#MOSS)
+  - [ChatYuan](#ChatYuan)
 + [英文对话模型](#英文对话模型)
   - [Blender系列](#Blender系列)
   - [LaMDA](#LaMDA)
@@ -110,6 +111,14 @@
 | ---- | ---- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------- | ---------------- | -------- |
 | MOSS | 百亿级别 | [项目首页](https://txsun1997.github.io/blogs/moss.html) | [模型下载](https://github.com/txsun1997/MOSS) | [复旦大学自然语言处理实验室](https://nlp.fudan.edu.cn/) | [github](https://github.com/txsun1997/MOSS) |中文ChatGPT|
 
+### ChatYuan
+
+:thinking:体验地址：[ChatYuan](http://www.clueai.cn/chat)
+
+| 模型     | 版本     | 模型大小 | 介绍                                                         | 模型下载                                                    | 作者                                 | 源地址                                        | 应用领域             |
+| -------- | -------- | -------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------ | --------------------------------------------- | -------------------- |
+| ChatYuan | large-v1 | 770M     | [项目首页](https://mp.weixin.qq.com/s/-axa6XcjGl_Koeq_OrDq8w) | [模型下载](https://huggingface.co/ClueAI/ChatYuan-large-v1) | [ClueAI](https://github.com/clue-ai) | [github](https://github.com/clue-ai/ChatYuan) | 元语功能型对话大模型 |
+
 ## 英文对话模型
 
 ### Blender系列
@@ -161,6 +170,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2023.03.06 增加<a href='#ChatYuan'>ChatYuan</a>，ChatYuan是业内首个功能型对话开源中文大模型，可以用于回答问题、可以结合上下文做对话、做各种生成任务，包括创意性写作，也能回答法律、新冠等领域类问题
 * 2023.02.21 增加<a href='#MOSS'>MOSS</a>，MOSS是复旦大学自然语言处理实验室发布的一个具备 ChatGPT 能力的语言模型
 * 2023.01.31 增加<a href="#TikTalk">TikTalk</a>，TikTalk是一个真实闲聊中文多模态数据集，共包括38703个视频和相应367670个对话
 * 2022.12.27 增加<a href="#Sky系列">SkyChat</a>, SkyChat是一款基于中文GPT-3 API研发的聊天机器人项目，它除了基本的聊天、对话、你问我答外，还能支持中英文互译、内容续写、对对联、写古诗、生成菜谱、第三人称转述、创建采访问题等多种功能
