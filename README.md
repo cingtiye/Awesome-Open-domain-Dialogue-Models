@@ -9,6 +9,7 @@
 + [中文对话模型](#中文对话模型)
   - [CDial-GPT系列](#CDial-GPT系列)
   - [EVA系列](#EVA系列)
+  - [ChatLLM系列](#ChatLLM系列)
   - [PLATO系列](#PLATO系列)
   - [PanGu系列](#PanGu系列)
   - [OPD](#OPD)
@@ -57,7 +58,14 @@
 | EVA2.0-large |  large | [项目首页](https://wudaoai.cn/model/detail/EVA) | [huggingface](https://huggingface.co/thu-coai/EVA2.0-large) | [thu-coai](https://github.com/thu-coai) | [github](https://github.com/thu-coai/EVA) | 中文开放域对话  |  
 | EVA2.0-base |  base | [项目首页](https://wudaoai.cn/model/detail/EVA) | [huggingface](https://huggingface.co/thu-coai/EVA2.0-base) | [thu-coai](https://github.com/thu-coai) | [github](https://github.com/thu-coai/EVA) | 中文开放域对话  |  
 
+### ChatLLM系列
+
+| 模型    | 版本 | 介绍                                | 模型下载                                               | 作者                              | 源地址                                        | 应用领域       |
+| ------- | ---- | ----------------------------------- | ------------------------------------------------------ | --------------------------------- | --------------------------------------------- | -------------- |
+| ChatGLM | 6B   | [项目首页](https://chatglm.cn/blog) | [huggingface](https://huggingface.co/THUDM/chatglm-6b) | [THUDM](https://github.com/THUDM) | [github](https://github.com/THUDM/ChatGLM-6B) | 中英开放域对话 |
+
 ### PLATO系列
+
 :thinking: <a name="PLATO-XL">体验地址</a>: 手机微信搜索**百度PLATO**即可体验
 
 - 2020 | PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/1910.07931.pdf)
@@ -170,6 +178,7 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2023.03.14 增加<a href='#ChatLLM系列'>ChatGLM</a>， ChatGLM是一个开源的、支持中英双语的对话语言模型，是一个初具问答和对话功能的千亿中英语言模型
 * 2023.03.06 增加<a href='#ChatYuan'>ChatYuan</a>，ChatYuan是业内首个功能型对话开源中文大模型，可以用于回答问题、可以结合上下文做对话、做各种生成任务，包括创意性写作，也能回答法律、新冠等领域类问题
 * 2023.02.21 增加<a href='#MOSS'>MOSS</a>，MOSS是复旦大学自然语言处理实验室发布的一个具备 ChatGPT 能力的语言模型
 * 2023.01.31 增加<a href="#TikTalk">TikTalk</a>，TikTalk是一个真实闲聊中文多模态数据集，共包括38703个视频和相应367670个对话
