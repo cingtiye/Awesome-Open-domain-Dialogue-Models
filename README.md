@@ -162,6 +162,7 @@
 :thinking:体验地址（支持中英等多种语言）参考网站：[参考](https://blog.ittutorial.top/ai-ChatGPT/)
 
 - 2022 | Training language models to follow instructions with human feedback | Long Ouyang, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/2203.02155.pdf)
+- 2023 | GPT-4 Technical Report | OpenAI* | [`PDF`](https://cdn.openai.com/papers/gpt-4.pdf)
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
