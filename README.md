@@ -60,9 +60,10 @@
 
 ### ChatLLM系列
 
-| 模型    | 版本 | 介绍                                | 模型下载                                               | 作者                              | 源地址                                        | 应用领域       |
-| ------- | ---- | ----------------------------------- | ------------------------------------------------------ | --------------------------------- | --------------------------------------------- | -------------- |
-| ChatGLM | 6B   | [项目首页](https://chatglm.cn/blog) | [huggingface](https://huggingface.co/THUDM/chatglm-6b) | [THUDM](https://github.com/THUDM) | [github](https://github.com/THUDM/ChatGLM-6B) | 中英开放域对话 |
+| 模型    | 版本 | 介绍                                             | 模型下载                                               | 作者                                   | 源地址                                         | 应用领域       |
+| ------- | ---- | ------------------------------------------------ | ------------------------------------------------------ | -------------------------------------- | ---------------------------------------------- | -------------- |
+| ChatGLM | 6B   | [项目首页](https://chatglm.cn/blog)              | [huggingface](https://huggingface.co/THUDM/chatglm-6b) | [THUDM](https://github.com/THUDM)      | [github](https://github.com/THUDM/ChatGLM-6B)  | 中英开放域对话 |
+| BELLE   | 7B   | [项目首页](https://github.com/LianjiaTech/BELLE) | [huggingface](https://huggingface.co/BelleGroup)       | [贝壳](https://github.com/LianjiaTech) | [github](https://github.com/LianjiaTech/BELLE) | 中英开放域对话 |
 
 ### PLATO系列
 
@@ -91,11 +92,13 @@
 ### PanGu系列
 
 - 2022 | PANGU-BOT: Efficient Generative Dialogue Pre-training from Pre-trained Language Model | Fei Mi, et al | arxiv | [`PDF`](https://arxiv.org/pdf/2203.17090.pdf)
+- 2023 | PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing | Xiaozhe Ren, et al | arxiv | [`PDF`](https://arxiv.org/abs/2303.10845)
 
 | 模型 | 版本 | 介绍 | 模型下载 | 作者| 源地址 | 应用领域 |
 | ---- | ---- | ---- | ---- | ---- | ---- |---- |
 | PanGu-bot | 350M | [项目首页](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog) |  | [huawei-noah](https://github.com/huawei-noah) | [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot) | 中文开放域对话 |
 | PanGu-bot | 2.6B | [项目首页](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog) | [模型下载](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Dialog#user-content-4-1-%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6:~:text=4%20%E4%BD%BF%E7%94%A8-,4.1%20%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6,-%E6%A8%A1%E5%9E%8B%E6%96%87%E4%BB%B6) | [huawei-noah](https://github.com/huawei-noah) |  [github](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-Bot)  | 中文开放域对话 |
+| PANGU-$\sum$ | 1.085T |  |  | [huawei-noah](https://github.com/huawei-noah) |  | 中文开放域对话 |
 
 ### OPD
 
@@ -180,6 +183,8 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
+* 2020.03.21 增加<a href='#PanGu系列'>PANGU-$\sum$</a>，PANGU-$\sum$是一个在Ascend 910 AI处理器和MindSpore框架的集群上训练的一个万亿参数的语言模型
+* 2020.03.21 增加<a href='#ChatLLM系列'>BELLE</a>，BELLE是一个开源的中文对话大模型，基于Stanford Alpaca，并对中文做了优化
 * 2023.03.15 增加<a href="#ChatGPT">GPT4</a>，GPT-4是OpenAI最先进的模型，能够产生更安全、更有用的回复
 * 2023.03.14 增加<a href='#ChatLLM系列'>ChatGLM</a>， ChatGLM是一个开源的、支持中英双语的对话语言模型，是一个初具问答和对话功能的千亿中英语言模型
 * 2023.03.06 增加<a href='#ChatYuan'>ChatYuan</a>，ChatYuan是业内首个功能型对话开源中文大模型，可以用于回答问题、可以结合上下文做对话、做各种生成任务，包括创意性写作，也能回答法律、新冠等领域类问题
