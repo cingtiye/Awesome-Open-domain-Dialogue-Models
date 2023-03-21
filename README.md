@@ -67,7 +67,9 @@
 
 ### PLATO系列
 
-:thinking: <a name="PLATO-XL">体验地址</a>: 手机微信搜索**百度PLATO**即可体验
+:thinking: <a name="PLATO-XL">体验地址</a>: 手机微信搜索**百度PLATO**即可体验 (**目前已失效**)
+
+:thinking: <a name="ERNIE Bot">体验地址</a>: [ERNIE Bot](https://yiyan.baidu.com/) 
 
 - 2020 | PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable | Siqi Bao, et al. | arxiv | [`PDF`](https://arxiv.org/pdf/1910.07931.pdf)
 
@@ -88,6 +90,7 @@
 | PLATO-KAG | 1.6B | [项目地址](https://github.com/PaddlePaddle/Knover) |  | [PaddlePaddle](https://github.com/PaddlePaddle) | [github](https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-KAG) | 中文知识型对话 |
 | PLATO-LTM | 1.6B | [项目地址](https://github.com/PaddlePaddle/Research/tree/master/NLP) |  | [PaddlePaddle](https://github.com/PaddlePaddle) | [github](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) | 中文开放域对话 |
 | PLATO-K | 22B |  | | [PaddlePaddle](https://github.com/PaddlePaddle) |  | 中文开放域对话 |
+| ERNIE Bot |  | | |  | | 中英开放域对话 |
 
 ### PanGu系列
 
@@ -183,8 +186,9 @@
 [3] [千言中文对话](https://www.luge.ai/#/)
 
 ## 更新
-* 2020.03.21 增加<a href='#PanGu系列'>PANGU-$\sum$</a>，PANGU-$\sum$是一个在Ascend 910 AI处理器和MindSpore框架的集群上训练的一个万亿参数的语言模型
-* 2020.03.21 增加<a href='#ChatLLM系列'>BELLE</a>，BELLE是一个开源的中文对话大模型，基于Stanford Alpaca，并对中文做了优化
+* 2023.03.21 增加<a href='#PanGu系列'>PANGU-$\sum$</a>，PANGU-$\sum$是一个在Ascend 910 AI处理器和MindSpore框架的集群上训练的一个万亿参数的语言模型
+* 2023.03.21 增加<a href='#ChatLLM系列'>BELLE</a>，BELLE是一个开源的中文对话大模型，基于Stanford Alpaca，并对中文做了优化
+* 2023.03.20 增加<a href='#PLATO系列'>ERNIE Bot</a>，ERNIE Bot是百度团队发布的一个人工智能语言模型，中文名是文心一言，可以回答用户的问题，为用户提供有用的信息，并帮助用户完成创作
 * 2023.03.15 增加<a href="#ChatGPT">GPT4</a>，GPT-4是OpenAI最先进的模型，能够产生更安全、更有用的回复
 * 2023.03.14 增加<a href='#ChatLLM系列'>ChatGLM</a>， ChatGLM是一个开源的、支持中英双语的对话语言模型，是一个初具问答和对话功能的千亿中英语言模型
 * 2023.03.06 增加<a href='#ChatYuan'>ChatYuan</a>，ChatYuan是业内首个功能型对话开源中文大模型，可以用于回答问题、可以结合上下文做对话、做各种生成任务，包括创意性写作，也能回答法律、新冠等领域类问题
